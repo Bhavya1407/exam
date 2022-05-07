@@ -1,2 +1,2 @@
 # exam
-exam repo
+exam repo git for command
